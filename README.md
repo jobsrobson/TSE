@@ -1,4 +1,9 @@
-Análise Exploratória - Candidatos das Eleições Gerais de 2014 e 2018 no Brasil
+![Capa do trabalho](https://github.com/jobsrobson/repos-public/blob/main/TSE/tse_banner_robson.png?raw=true)
+
+
+Análise Exploratória
+============
+Candidatos das Eleições Gerais de 2014 e 2018 no Brasil
 ============
 
 Este foi o trabalho de conclusão da disciplina Introdução à Ciência de Dados, ministrada pelo Prof. Alexandre Vaz durante o 1º/2022.
