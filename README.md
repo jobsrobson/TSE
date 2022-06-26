@@ -1,4 +1,4 @@
-![Capa do trabalho](https://github.com/jobsrobson/repos-public/blob/main/TSE/tse_banner_robson.png?raw=true)
+![Capa do trabalho](https://github.com/jobsrobson/TSE/blob/main/Img/tse_banner_robson.png?raw=true)
 
 
 Análise Exploratória
